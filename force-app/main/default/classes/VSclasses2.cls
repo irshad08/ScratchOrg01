@@ -13,10 +13,7 @@ public with sharing class VSclasses2 {
 		<members>Account</members>
 		<name>CustomObject</name>
 	</types>
-	<types>
-		<members>*</members>
-		<name>PermissionSet</name>
-	</types>
+	
 	<types>
 		<members>*</members>
 		<name>Workflow</name>
