@@ -3,14 +3,7 @@ public with sharing class VSclasses2 {
         /*new comment will be pull be VS code*/
 
         /*
-        	<types>
-		<members>*</members>
-		<name>ApexPage</name>
-	</types>
-	<types>
-		<members>Account</members>
-		<name>CustomObject</name>
-	</types>
+        	
 	<types>
 		<members>*</members>
 		<name>PermissionSet</name>
