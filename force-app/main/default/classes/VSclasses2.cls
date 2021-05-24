@@ -2,7 +2,7 @@ public with sharing class VSclasses2 {
     public VSclasses2() {
         /*new comment will be pull be VS code*/
 
-        /*
+        /*vscode change 03 need to be pushed from sand and git
         	
 	<types>
 		<members>*</members>
